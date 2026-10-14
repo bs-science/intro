@@ -13,4 +13,3 @@
 
 [https://bs-science.github.io/intro/](https://bs-science.github.io/intro/)
 
-`main` 브랜치에 변경 사항이 반영되면 GitHub Actions가 정적 파일을 GitHub Pages에 배포합니다.
